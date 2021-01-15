@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm [Jonatan](https://github.com/Jonnhyx) 👨‍💻
-
+<br/>
+<a href="https://www.linkedin.com/in/jonatanperezrodriguez/">
+  <img align="left" alt="Jonatan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br/>
 
 ### Languages
 
@@ -9,6 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+
 ### Technologies
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
