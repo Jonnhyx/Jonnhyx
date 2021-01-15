@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Jonatan](https://github.com/Jonnhyx) 👨‍💻
+### Hola 👋, Soy [Jonatan](https://github.com/Jonnhyx) 👨‍💻
 
 Mi objetivo es formarme en las nuevas tecnologías y seguir aprendiendo dia a dia para seguir creciendo.
 
