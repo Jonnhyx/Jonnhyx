@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm [Jonatan](https://github.com/Jonnhyx) 👨‍💻
 
+Mi objetivo es formarme en las nuevas tecnologías y seguir aprendiendo dia a dia para seguir creciendo.
 
 🌱 Actualmente estoy aprendiendo Machine Learning & Microservicios.
 
-📚 En el 2020 he estudiado un CS desarrollo de aplicaciones multiplataforma.[Mis notas](https://jonnhyx.github.io/Portafolio).
+📚 En el 2020 he estudiado un CS desarrollo de aplicaciones multiplataforma. [Mis notas](https://jonnhyx.github.io/Portafolio).
 
-😍 Mis hobbies son el deporte 
+😍 Mis hobbies son el deporte y la naturaleza.
 
 💌 contacta conmigo en: jonnhyxdev@gmail.com.
 
