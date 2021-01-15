@@ -16,6 +16,7 @@ Mi objetivo es formarme en las nuevas tecnologías y seguir aprendiendo dia a di
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Jonnhyx?tab=repositories&q=&type=&language=java)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/Jonnhyx?tab=repositories&q=&type=&language=kotlin)
 ![Kotlin](https://img.shields.io/badge/-PHP-000?&logo=php)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
