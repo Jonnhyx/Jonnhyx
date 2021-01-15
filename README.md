@@ -1,3 +1,7 @@
+<p align="center">
+  <img  src="https://github.com/Jonnhyx/Jonnhyx/blob/main/animation_light.gif">
+</p>
+
 ### Hola 👋, Soy [Jonatan](https://github.com/Jonnhyx) 👨‍💻
 
 Mi objetivo es formarme en las nuevas tecnologías y seguir aprendiendo dia a dia para seguir creciendo.
