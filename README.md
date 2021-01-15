@@ -1,17 +1,13 @@
 ### Hi there 👋, I'm [Jonatan](https://github.com/Jonnhyx) 👨‍💻
 
 
-    🌱 Actualmente estoy aprendiendo Machine Learning & Microservicios.
-    📚 En el 2020 he estudiado un CS de desarrollo de aplicaciones multiplataforma. [Mis notas:](https://jonnhyx.github.io/Portafolio/).
-    😍 Mis hobbies son el deporte 
-    💌 contacta conmigo en: jonnhyxdev@gmail.com.
+🌱 Actualmente estoy aprendiendo Machine Learning & Microservicios.
 
+📚 En el 2020 he estudiado un CS desarrollo de aplicaciones multiplataforma.[Mis notas](https://jonnhyx.github.io/Portafolio).
 
+😍 Mis hobbies son el deporte 
 
-<a href="https://www.linkedin.com/in/jonatanperezrodriguez/">
-  <img align="left" alt="Jonatan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+💌 contacta conmigo en: jonnhyxdev@gmail.com.
 
 ### Languages
 
